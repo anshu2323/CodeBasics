@@ -8,4 +8,5 @@ This is a basic description of git commands and github forking, pull and push fu
 6- git add VM.py: to put the python file to the staging area
 7- git commit -m '1st version': c ommits to the local storage and not in github
 8- git log: will show all commit history
-9-  
+9- git push https://github.com/anshu2323/CodeBasics.git to push the staged files to github repository
+10-
