@@ -1,4 +1,4 @@
-# CodeBasics
+# CodeBasics (6-8 --> ACP)
 This is a basic description of git commands and github forking, pull and push functionalities:
 1- git clone https://github.com/anshu2323/CodeBasics.git: To clone a repository to your local machine
 2- ls: list files in the current directory
@@ -7,6 +7,6 @@ This is a basic description of git commands and github forking, pull and push fu
 5- git status: to check the status of your directory
 6- git add VM.py: to put the python file to the staging area
 7- git commit -m '1st version': c ommits to the local storage and not in github
-8- git log: will show all commit history
-9- git push https://github.com/anshu2323/CodeBasics.git to push the staged files to github repository
+8- git push https://github.com/anshu2323/CodeBasics.git to push the staged files to github repository
+9- git log: will show all commit history
 10- git difftool HEAD: Tells the changes in the previous version of the file and the newer version
