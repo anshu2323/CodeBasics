@@ -50,6 +50,6 @@ OR USE SIMPLY:  git push origin main
 
 23- git branch -d 'branch_name' : To delete a branch
 
-24- 
+
 
 
