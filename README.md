@@ -17,6 +17,7 @@ This is a basic description of git commands and github forking, pull and push fu
 7- git commit -m '1st version': c ommits to the local storage and not in github
 
 8- git push https://github.com/anshu2323/CodeBasics.git to push the staged files to github repository
+OR USE SIMPLY:  git push origin main
 
 9- git log: will show all commit history
 
