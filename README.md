@@ -64,6 +64,10 @@ OR USE SIMPLY:  git push origin main
 
 Check hash status from git log.
 
+FORK is a rough copy of the original repository with same visibility settings and code. You can fork other projects into your github repository, do useful changes and then do pull requests from your main brach to the original owner. Based on the usefulness your changes can be integrated to the original authors branch.
+
+
+
 
 
 
