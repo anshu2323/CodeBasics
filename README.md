@@ -2,7 +2,7 @@
 
 This is a basic description of git commands and github forking, pull and push functionalities:
 
-1- git clone https://github.com/anshu2323/CodeBasics.git: To clone (pull) a repository to your local machine
+1- git clone https://github.com/anshu2323/CodeBasics.git: To clone a repository to your local machine
 
 2- ls: list files in the current directory
 
@@ -50,6 +50,12 @@ OR USE SIMPLY:  git push origin main
 
 23- git branch -d 'branch_name' : To delete a branch
 
-24- 
+24- git push origin third: This will create a new branch at github and also push the changes to that branch only
+
+25- git diff main: Will compare the two branches third and main
+
+26- git merge main: To merge other branch to main branch Or you can do using pull request directly from github.
+
+
 
 
