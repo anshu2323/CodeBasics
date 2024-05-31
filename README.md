@@ -50,12 +50,6 @@ OR USE SIMPLY:  git push origin main
 
 23- git branch -d 'branch_name' : To delete a branch
 
-24- git push origin third: This will create a new branch at github and also push the changes to that branch only
-
-25- git diff main: Will compare the two branches third and main
-
-26- git merge main: To merge other branch to main branch Or you can do using pull request directly from github.
-
 
 
 
