@@ -1,4 +1,4 @@
-# CodeBasics (6-8 --> ACP)
+# GIT- VCS - Track history and collaborate (6-8 --> ACP)
 This is a basic description of git commands and github forking, pull and push functionalities:
 1- git clone https://github.com/anshu2323/CodeBasics.git: To clone a repository to your local machine
 2- ls: list files in the current directory
