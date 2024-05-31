@@ -7,6 +7,7 @@ This is a basic description of git commands and github forking, pull and push fu
 2- ls: list files in the current directory
 
 3- cd c/code/new: to change directory
+3a- cd .. --> to get back from a directory
 
 4- clear: to clear the commands in git bash command line
 
@@ -28,3 +29,17 @@ OR USE SIMPLY:  git push origin main
 12- git checkout .: undo all file changes
 
 13- git status: To know the status of our local file and that in github
+
+14- mkdir LocalRepo: to make a new directory in our local machine 
+
+15- git init: To initialize a new folder as a git repository
+
+16- git remote add origin https://github.com/anshu2323/LocalRepo.git : To add a new repo to our local system
+
+17- git remote -v : To verify remote 
+
+18- git branch -M main : To rename default master branch to main branch 
+
+19- git push -u origin main: To push at the same branch, now we can use git push only
+
+
