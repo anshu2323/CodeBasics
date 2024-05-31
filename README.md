@@ -42,4 +42,14 @@ OR USE SIMPLY:  git push origin main
 
 19- git push -u origin main: To push at the same branch, now we can use git push only
 
+20- git branch: To check which branch we are in 
+
+21- git checkout -b new : To make a new branch called 'new'
+
+22- git checkout main: To switch to main branch
+
+23- git branch -d 'branch_name' : To delete a branch
+
+24- 
+
 
