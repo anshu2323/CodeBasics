@@ -56,6 +56,15 @@ OR USE SIMPLY:  git push origin main
 
 26- git merge main: To merge other branch to main branch Or you can do using pull request directly from github.
 
+27- git reset filename: To get back in a staged change.
+27b- git reset 
+
+28- git reset HEAD~1: fOR RESETTING AFTER COMMIT
+28b- git reset --HARD: to go back multiple commits, note down the hash number.
+
+Check hash status from git log.
+
+
 
 
 
