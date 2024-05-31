@@ -1,4 +1,4 @@
-# GIT- VCS - Track history and collaborate (6-8 --> ACP)
+# GIT- VCS - Track history and collaborate (6-8 --> ACP--)
 
 This is a basic description of git commands and github forking, pull and push functionalities:
 
