@@ -2,7 +2,7 @@
 
 This is a basic description of git commands and github forking, pull and push functionalities:
 
-1- git clone https://github.com/anshu2323/CodeBasics.git: To clone a repository to your local machine
+1- git clone https://github.com/anshu2323/CodeBasics.git: To clone (pull) a repository to your local machine
 
 2- ls: list files in the current directory
 
@@ -12,7 +12,7 @@ This is a basic description of git commands and github forking, pull and push fu
 
 5- git status: to check the status of your directory
 
-6- git add VM.py: to put the python file to the staging area
+6- git add VM.py: to put the python file to the staging area (use git add . to stage all files)
 
 7- git commit -m '1st version': c ommits to the local storage and not in github
 
@@ -26,3 +26,4 @@ This is a basic description of git commands and github forking, pull and push fu
 
 12- git checkout .: undo all file changes
 
+13- git status: To know the status of our local file and that in github
